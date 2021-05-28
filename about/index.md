@@ -9,10 +9,8 @@ Welcome to Jackpon GitBlog ！
 **附上联系方式：**
 
 
- - 邮箱：JackpongWong@163.com
- - 知乎：[欢迎一起来讨论][1]
- - GitHub：[Jackpon][2]
+ - 邮箱：rocdk890@gmail.com
+ - GitHub：[rocdk890][1]
 
 
-  [1]: https://www.zhihu.com/people/Jackpon
-  [2]: https://github.com/Jackpon
+  [1]: https://github.com/rocdk890
