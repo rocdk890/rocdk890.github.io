@@ -1,5 +1,6 @@
 ---
 title: Ubuntu搭建raid
+author: rocdk890
 categories: 
 - linux
 tags:
