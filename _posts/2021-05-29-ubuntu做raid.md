@@ -76,7 +76,8 @@ RAID 10(又叫RAID 1+0)特点：
 
 `cat /proc/mdstat`   
 
-![avatar](../assets/blog_images/20210106163114.png)
+![img](/assets/blog_images/20210106163114.png)
+
 
 可以看到图中我们已经做好了raid 0.
 
@@ -84,7 +85,7 @@ RAID 10(又叫RAID 1+0)特点：
 
 `blkid`  
 
-![avatar](../assets/blog_images/20210106164416.png)
+![img](/assets/blog_images/20210106164416.png)
 
 `echo 'UUID=e49026f0-caeb-4adc-aeab-db59d09d6e32 /opt/hdd_pool xfs defaults,nofail,discard 0 0' | sudo tee -a /etc/fstab`  
 
