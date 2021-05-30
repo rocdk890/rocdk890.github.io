@@ -1,11 +1,14 @@
 ---
-title: Ubuntu搭建raid
-author: rocdk890
-categories: 
-- linux
+layout:     post
+title:      Ubuntu配置raid
+subtitle:   
+date:       2021-05-29
+author:     rocdk890
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
 tags:
-- raid 
-updated: 2020-05-29
+    - Linux
+    - Ubuntu
 ---
 
 ### 准备工作

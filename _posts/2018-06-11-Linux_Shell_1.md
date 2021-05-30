@@ -1,12 +1,15 @@
 ---
-title: 第一章 小试牛刀
-categories: 
-- Linux_Shell
+layout:     post
+title:      第一章 小试牛刀
+subtitle:   Linux_Shell_脚本攻略
+date:       2018-06-11
+author:     
+header-img: img/post-bg-debug.png
+catalog: true
 tags:
-- Linux_Shell_脚本攻略
-updated: 2018-06-11
+    - Shell
+    - Linux
 ---
-
 ​	
 
 #### 前言
