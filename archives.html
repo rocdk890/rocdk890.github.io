@@ -1,11 +1,13 @@
----
-layout: page
-title: 存档
-header: Post Archive
-comments: false
-permalink: archive
----
-{% include JB/setup %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+{% for year in postsByYear %}
+<h3 id="{{ year.name }}">{{ year.name }}</h3>
+<ul>
+  {% for post in year.items %}
+  <li>
+  <span>{{ post.date | date: '%m-%d' }}</span>&nbsp;
+  <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}
