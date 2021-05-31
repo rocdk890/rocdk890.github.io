@@ -4,7 +4,7 @@ title:      Ubuntu配置raid
 subtitle:   
 date:       2021-05-29
 author:     rocdk890
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - Linux
