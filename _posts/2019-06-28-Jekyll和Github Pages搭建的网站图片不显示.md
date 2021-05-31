@@ -4,7 +4,7 @@ title:      Jekyll和Github Pages搭建的网站图片不显示
 subtitle:   
 date:       2019-06-28
 author:     Don
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-miui-ux.jpg
 catalog: true
 tags:
     - Blog

@@ -4,7 +4,7 @@ title:      第一章 小试牛刀
 subtitle:   Linux_Shell_脚本攻略
 date:       2018-06-11
 author:     
-header-img: img/post-bg-debug.png
+header-img: img/post-bg-unix-linux.jpg
 catalog: true
 tags:
     - Shell
