@@ -108,7 +108,7 @@ cd ~/soft_shell
 vim stop.sh
 ```
 
-```shell
+```
 #!/bin/bash
 while true; do
   pid=`ps -ef |grep FullNode.jar |grep -v grep |awk '{print $2}'`
@@ -148,7 +148,7 @@ cd ~/soft_shell/
 vim start.sh
 ```
 
-```shell
+```
 #!/bin/bash
 export LD_PRELOAD="/usr/lib64/libtcmalloc.so.4"
 export TCMALLOC_RELEASE_RATE=10
