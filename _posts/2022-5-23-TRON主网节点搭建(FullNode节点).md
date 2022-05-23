@@ -68,8 +68,8 @@ source /etc/profile
 java -version
 ```
 
-> java version "1.8.0_333"
-> Java(TM) SE Runtime Environment (build 1.8.0_333-b02)
+> java version "1.8.0_333" <br>
+> Java(TM) SE Runtime Environment (build 1.8.0_333-b02) <br>
 > Java HotSpot(TM) 64-Bit Server VM (build 25.333-b02, mixed mode)
 
 
