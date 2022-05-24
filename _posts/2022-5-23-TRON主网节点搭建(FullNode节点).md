@@ -225,3 +225,5 @@ saveInternalTx = false
 [波场中文文档](https://tronprotocol.github.io/documentation-zh/developers/deployment/)
 
 [波场TRC20钱包-搭建私有超级节点和FullNode节点](https://blog.csdn.net/u012387141/article/details/108658091)
+
+[节点搭建](https://cn.developers.tron.network/docs/deploy-the-fullnode-or-supernode)
