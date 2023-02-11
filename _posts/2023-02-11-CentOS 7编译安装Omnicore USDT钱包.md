@@ -133,7 +133,7 @@ omnicore-cli "omni_getinfo"|grep block
 
 - 本文参考:
 
-[Omni 全节点搭建](https://www.cnblogs.com/wf-l5201314/p/11969636.html)
+  ##### [Omni全节点搭建](https://www.cnblogs.com/wf-l5201314/p/11969636.html)
 
 - **相关链接**
   \- Omni 节点源码：https://github.com/OmniLayer/omnicore
