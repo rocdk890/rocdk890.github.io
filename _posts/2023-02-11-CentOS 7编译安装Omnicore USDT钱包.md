@@ -136,7 +136,7 @@ omnicore-cli "omni_getinfo"|grep block
   ##### [Omni全节点搭建](https://www.cnblogs.com/wf-l5201314/p/11969636.html)
 
 - **相关链接** <br>
-  - Omni 节点源码：https://github.com/OmniLayer/omnicore
+  - Omni 节点源码：[https://github.com/OmniLayer/omnicore](https://github.com/OmniLayer/omnicore)
   - Omni 区块浏览器：[https://omniexplorer.info](https://omniexplorer.info/)
-  - Omni RPC 所以接口使用说明：https://github.com/OmniLayer/omnicore/blob/master/src/omnicore/doc/rpc-api.md
+  - Omni RPC 所以接口使用说明：[https://github.com/OmniLayer/omnicore/blob/master/src/omnicore/doc/rpc-api.md](https://github.com/OmniLayer/omnicore/blob/master/src/omnicore/doc/rpc-api.md)
 
