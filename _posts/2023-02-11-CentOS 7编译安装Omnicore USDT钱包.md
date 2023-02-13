@@ -79,12 +79,13 @@ rpcpassword=mfkqxxr
 daemon=1
 server=1
 gen=0
+dbcache=10240
+rest=1
 rpcport=8334
 rpcbind=0.0.0.0:8332
 rpcallowip=0.0.0.0/0
 rpcconnect=127.0.0.1
-timeout=50000
-rpctimeout=100
+deprecatedrpc=accounts
 ```
 
 ##### 5.启动omnicore
@@ -111,7 +112,7 @@ pid=`ps auxw|grep omnicored|grep -v grep|wc -l`
 
 if [ $pid -eq 0 ];then
 	echo "not running,start process....."
-	omnicored --conf=/data/omnicore/bitcoin.conf > /dev/null 2 >&1 &
+	omnicored --conf=/data/omnicore/bitcoin.conf > /dev/null 2>&1 &
 else
 	echo "process is already running....."
 fi
